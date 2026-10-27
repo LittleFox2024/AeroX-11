@@ -9,3 +9,7 @@ Aero10: [https://github.com/vaporvance/aero10](https://github.com/vaporvance/aer
 
 
 *This is not a revival of Aero7-11. That is still discontinued for now.* 
+
+# Current Checklist
+- Tray flyout background ([Aero11:Vista Issue #59](https://github.com/Sand216/Aero11/issues/59))
+- Vista clear variant
